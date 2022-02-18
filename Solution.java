@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 
-class Solution {
+public class Solution {
 
     static final int ALPHABET = 26;
     int numberOfWordsToDisplay;
